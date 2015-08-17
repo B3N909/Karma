@@ -1,0 +1,6 @@
+name: Karma
+version: 1.0
+description: Karma Plugin
+main: me.savant.karma.Karma
+commands:
+  karma:
